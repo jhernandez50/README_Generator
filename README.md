@@ -26,3 +26,9 @@ Once the information is submited, the README file will be created in the utils f
 ## Repository
 
 - [Project Repo](https://github.com/jhernandez50/README_Generator.git)
+
+## Project Video
+
+- [Project Video](https://drive.google.com/file/d/1x51xTjAGpEGxWbD4FxJ7YIUCOjUAL4Ij/view)
+
+
